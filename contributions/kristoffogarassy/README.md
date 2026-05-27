@@ -28,4 +28,4 @@ The proof uses the existing closure principles of the framework, especially rein
 
 ## Documentation
 
-The file `OMinimalStructure_DetailedWriteup_WithImage.tex` explains the mathematical idea and records the current development.
+The file `OMinimalStructure_DetailedWriteup_WithImage.tex` explains the mathematical idea and records the current development. For convenience, the compiled PDF version, `OMinimalStructure_DetailedWriteup_WithImage.pdf`, is also included.
