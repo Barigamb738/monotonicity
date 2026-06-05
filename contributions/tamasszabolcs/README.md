@@ -1,5 +1,6 @@
 **Csapat tagjai:** 
 Haskó Emma, Lengyel Szabolcs, Nyáry János, Tamás Szabolcs
+
 **Feladat:** 
 Táblán lévő apróbb lemmák leírása, bizonyítása, majd Lean-be formalizálni.
 
